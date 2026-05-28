@@ -57,7 +57,6 @@ Developed a premium interactive Power BI dashboard to analyze business performan
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview]
 (Executive Business Intelligence Dashboard.png)
 
 ---
