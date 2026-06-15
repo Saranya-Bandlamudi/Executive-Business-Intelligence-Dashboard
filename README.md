@@ -1,69 +1,118 @@
-# Executive Business Intelligence Dashboard 📊✨
+# 📊 Executive Business Intelligence Dashboard
 
-## 📌 Project Overview
-Developed a premium interactive Power BI dashboard to analyze business performance through KPI reporting, revenue and profit analysis, regional sales insights, customer metrics, and product profitability visualization using DAX and advanced data visualization techniques.
+## 🎯 Project Overview
 
----
+This Executive Business Intelligence Dashboard provides a comprehensive view of business performance by analyzing revenue, profit, customer metrics, regional sales, and product profitability.
 
-## ✨ Dashboard Features
-✔️ KPI Cards for Total Revenue, Profit, Customers & Profit Margin  
-✔️ Monthly Sales Trend Analysis  
-✔️ Region-Wise Revenue Insights  
-✔️ Product-Wise Profitability Analysis  
-✔️ Interactive Slicers for Dynamic Filtering  
-✔️ Executive Dark-Themed Dashboard Design  
-✔️ Business KPI Monitoring & Reporting  
-✔️ Interactive Data Visualization & Storytelling  
+The dashboard helps business leaders monitor KPIs, identify growth opportunities, and make data-driven decisions.
 
 ---
 
-## 🛠️ Tools & Technologies Used
-🔹 Power BI  
-🔹 DAX  
-🔹 Power Query  
-🔹 Excel  
-🔹 Data Visualization  
-🔹 KPI Reporting  
-🔹 Data Cleaning & Transformation  
+## 🛠 Tools Used
+
+- Power BI
+- Excel
+- DAX
+- Data Modeling
+- Business Intelligence
+- Data Visualization
 
 ---
 
-## 📊 Key Business Insights
-📌 Analyzed overall revenue and profit performance  
-📌 Compared region-wise sales contribution  
-📌 Identified product profitability trends  
-📌 Tracked monthly business performance  
-📌 Built interactive executive reporting dashboard  
+## 📈 Key Performance Indicators
 
----
-
-## 🚀 Skills Demonstrated
-⭐ Business Intelligence Reporting  
-⭐ Interactive Dashboard Development  
-⭐ KPI Analysis & Reporting  
-⭐ DAX Measure Creation  
-⭐ Data Storytelling  
-⭐ Dashboard Design & Visualization  
-⭐ Business Performance Analysis  
-
----
-
-## 📂 Files Included
-📁 Power BI Dashboard (.pbix)  
-📁 Excel Dataset  
-📁 Dashboard Screenshot  
-📁 README Documentation  
+| KPI | Value |
+|------|------|
+| Total Revenue | ₹13.08 Lakhs |
+| Total Profit | ₹3.14 Lakhs |
+| Total Customers | 595 |
+| Profit Margin | 24.01% |
 
 ---
 
 ## 📸 Dashboard Preview
-<img width="1319" height="736" alt="image" src="https://github.com/user-attachments/assets/5a22814d-12aa-4fd5-aedb-e80951844948" />
 
+![Executive BI Dashboard](executive_bi_dashboard.png)
 
 ---
 
-## 🔗 Project Status
-✅ Completed  
-✅ Portfolio Ready  
-✅ LinkedIn Featured Project  
-✅ Resume Project
+## 🔍 Business Analysis
+
+### Revenue Performance
+- Generated over ₹13 Lakhs in total revenue.
+- Strong revenue contribution across all regions.
+
+### Profitability Analysis
+- Achieved 24.01% overall profit margin.
+- Total profit exceeded ₹3 Lakhs.
+
+### Regional Analysis
+- East Region generated the highest revenue.
+- North, South, and West regions maintained strong performance.
+
+### Product Analysis
+- Laptops contributed the highest profitability.
+- Mobile category generated significant revenue.
+- Tablets contributed additional business value.
+
+---
+
+## 📊 Dashboard Features
+
+✅ Revenue Tracking
+
+✅ Profit Analysis
+
+✅ Customer Analytics
+
+✅ Region-Wise Revenue Analysis
+
+✅ Product-Wise Profitability
+
+✅ Monthly Sales Trend Analysis
+
+✅ Interactive Filters
+
+---
+
+## 💡 Key Insights
+
+- East region leads revenue generation.
+- Laptop products contribute the highest profit.
+- Business maintains healthy profit margins.
+- Revenue distribution is balanced across regions.
+- Monthly sales trends help identify performance patterns.
+
+---
+
+## 🚀 Business Impact
+
+This dashboard enables management teams to:
+
+- Monitor company performance
+- Track profitability
+- Identify high-performing regions
+- Analyze product profitability
+- Support strategic decision-making
+
+---
+
+## ⭐ Project Outcome
+
+Successfully developed an Executive Business Intelligence Dashboard that transforms raw sales data into actionable business insights through interactive visualizations and KPI monitoring.
+
+---
+
+### 👩‍💻 Created by:-
+
+**Saranya Bandlamudi**
+
+Aspiring Data Analyst
+
+Power BI | SQL | Python | Excel | MySQL
+
+📍 Gudivada, Andhra Pradesh
+
+🔗 LinkedIn: linkedin.com/in/saranya-bandlamudi
+
+📧 Email: saranyabandlamudi7@gmail.com
