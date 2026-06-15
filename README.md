@@ -31,8 +31,8 @@ The dashboard helps business leaders monitor KPIs, identify growth opportunities
 ---
 
 ## 📸 Dashboard Preview
+<img width="1319" height="736" alt="image" src="https://github.com/user-attachments/assets/1d564033-1e69-422f-8722-031f9e6848d7" />
 
-![Executive BI Dashboard](executive_bi_dashboard.png)
 
 ---
 
