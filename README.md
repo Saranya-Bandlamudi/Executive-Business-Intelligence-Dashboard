@@ -113,6 +113,6 @@ Power BI | SQL | Python | Excel | MySQL
 
 📍 Gudivada, Andhra Pradesh
 
-🔗 LinkedIn: linkedin.com/in/saranya-bandlamudi
+🔗 LinkedIn: https://www.linkedin.com/in/saranya-bandlamudi?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 📧 Email: saranyabandlamudi7@gmail.com
