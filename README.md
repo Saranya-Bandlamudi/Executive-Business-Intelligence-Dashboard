@@ -107,7 +107,7 @@ Successfully developed an Executive Business Intelligence Dashboard that transfo
 
 **Saranya Bandlamudi**
 
-Aspiring Data Analyst
+Data Analyst
 
 Power BI | SQL | Python | Excel | MySQL
 
