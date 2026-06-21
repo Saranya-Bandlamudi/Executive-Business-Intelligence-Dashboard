@@ -107,8 +107,6 @@ Successfully developed an Executive Business Intelligence Dashboard that transfo
 
 **Saranya Bandlamudi**
 
-Data Analyst
-
 Power BI | SQL | Python | Excel | MySQL
 
 📍 Gudivada, Andhra Pradesh
